@@ -6,9 +6,12 @@
 
 ### Solution
 
-Just base64 decode it then xor it with `CSEAN`:
+```
+RNDGX2FIRFEX6RPUZHMJ62K7BTQLS4GFEZSS64VXRBLIKC27MIBYO3TSO5MBM6MYYNTUKQ3SMSUPKYL=
+```
+
 - [decoded]()
-- 
+  
 ### Flag
 
 ```
