@@ -7,6 +7,7 @@
 ### Solution
 
 If you search the word `FLAG` on the discord channel you get this
+<img width="541" height="241" alt="image" src="https://github.com/user-attachments/assets/aebd0f1e-0243-4bd7-96c0-1daa9b23d8b4" />
 
 It gives a link:
 - https://tmpfiles.org/36888852/flag.jpg
