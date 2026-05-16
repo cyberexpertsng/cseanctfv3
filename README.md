@@ -37,5 +37,5 @@ A total of 26 Teams successfully applied through the registration portal. 17 Tea
 
 After a thrilling competition, Team **airforce-ng** emerged as the overall winner with an impressive total of 8200 points. Team **Pwn_NG** and **Amara** secured the first runner-up and second runner-up positions with **8100** and **7950** points, respectively. Below is the final scoreboard following the conclusion of the event:
 
-<img width="1478" height="576" alt="image" src="https://github.com/user-attachments/assets/d847d848-3eca-423e-b377-7e9312a3647d" />
-<img width="1478" height="576" alt="image" src="https://github.com/user-attachments/assets/b342f556-753a-4659-acc2-cffa05b8afac" />
+<img width="1702" height="580" alt="image" src="https://github.com/user-attachments/assets/302109b6-8080-4202-b245-e3b3af7461e6" />
+<img width="1729" height="470" alt="image" src="https://github.com/user-attachments/assets/8281280c-730b-45ff-ade1-27be75ba556f" />
